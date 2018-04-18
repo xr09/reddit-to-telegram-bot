@@ -1,0 +1,17 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+flask = "<0.13"
+praw = "<5.1"
+telepot = "*"
+python-dotenv = "*"
+
+
+[dev-packages]
+

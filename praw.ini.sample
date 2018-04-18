@@ -1,0 +1,5 @@
+[mybot]
+username: username
+password: secret-pass
+client_id: super-secret-client-id
+client_secret: mysupersecret
