@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import os
-import shelve
 import logging
 
 from flask import Flask, request
